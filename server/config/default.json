@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoURI": "mongodb+srv://Micle:Bumer1234@cluster0.muvf8dr.mongodb.net/",
+  "accessSecret": "super puper secret key",
+  "refreshSecret": "super puper refresh key"
+}

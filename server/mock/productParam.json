@@ -1,0 +1,50 @@
+[
+  {
+    "product_id": "25",
+    "size": "10.1 дюйма",
+    "CPU": "MediaTek MT8768",
+    "memory": "4/64 ГБ",
+    "ОС": "Android 11",
+    "battery": "7 480 мАч, 7.5 ч"
+  },
+  {
+    "product_id": "26",
+    "size": "10.1 дюйма",
+    "CPU": "Spreadtrum SC7731E",
+    "memory": "1/16 ГБ",
+    "ОС": "Android 11 (Go Edition)",
+    "battery": "4000 мАч, 6 ч"
+  },
+  {
+    "product_id": "27",
+    "size": "8 дюймов",
+    "CPU": "MediaTek MY8768",
+    "memory": "2/16, 3/32 ГБ",
+    "ОС": "Android 10",
+    "battery": "5100 мАч, 8 ч"
+  },
+  {
+    "product_id": "28",
+    "size": "8 дюймов",
+    "CPU": "MediaTek Helio P22T",
+    "memory": "2/32, 4/64 ГБ",
+    "ОС": "Android 10",
+    "battery": "5000 мАч, 10 ч"
+  },
+  {
+    "product_id": "29",
+    "size": "9.7 дюймa",
+    "CPU": "Kirin 710A",
+    "memory": "2/32, 4/64 ГБ",
+    "ОС": "Android 10",
+    "battery": "5100 мАч, 11 ч"
+  },
+  {
+    "product_id": "30",
+    "size": "8.7 дюйма",
+    "CPU": "MediaTek Helio P22T",
+    "memory": "3/32, 4/64 ГБ",
+    "ОС": "Android 11",
+    "battery": "5100 мАч, 7 ч"
+  }
+]
